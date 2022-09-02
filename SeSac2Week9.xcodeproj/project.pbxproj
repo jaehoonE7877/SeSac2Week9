@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		254AC9AB28C05AFB000160C5 /* LottoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254AC9AA28C05AFB000160C5 /* LottoViewController.swift */; };
 		254AC9AD28C05C2F000160C5 /* LottoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254AC9AC28C05C2F000160C5 /* LottoViewModel.swift */; };
+		254AC9AF28C1865E000160C5 /* GCDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254AC9AE28C1865E000160C5 /* GCDViewController.swift */; };
 		254DA60428BD94CD0041F856 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254DA60328BD94CD0041F856 /* AppDelegate.swift */; };
 		254DA60628BD94CD0041F856 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254DA60528BD94CD0041F856 /* SceneDelegate.swift */; };
 		254DA60828BD94CD0041F856 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254DA60728BD94CD0041F856 /* ViewController.swift */; };
@@ -29,6 +30,7 @@
 /* Begin PBXFileReference section */
 		254AC9AA28C05AFB000160C5 /* LottoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottoViewController.swift; sourceTree = "<group>"; };
 		254AC9AC28C05C2F000160C5 /* LottoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottoViewModel.swift; sourceTree = "<group>"; };
+		254AC9AE28C1865E000160C5 /* GCDViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GCDViewController.swift; sourceTree = "<group>"; };
 		254DA60028BD94CD0041F856 /* SeSac2Week9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeSac2Week9.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		254DA60328BD94CD0041F856 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		254DA60528BD94CD0041F856 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				254DA60528BD94CD0041F856 /* SceneDelegate.swift */,
 				254DA60728BD94CD0041F856 /* ViewController.swift */,
 				254DA60928BD94CD0041F856 /* Main.storyboard */,
+				254AC9AE28C1865E000160C5 /* GCDViewController.swift */,
 				254DA60C28BD94CF0041F856 /* Assets.xcassets */,
 				254DA60E28BD94CF0041F856 /* LaunchScreen.storyboard */,
 				254DA61128BD94CF0041F856 /* Info.plist */,
@@ -214,6 +217,7 @@
 				254DA61E28BDA7310041F856 /* PersonAPIManager.swift in Sources */,
 				2587BD3D28C04A0800D96A65 /* LoginViewModel.swift in Sources */,
 				254DA60628BD94CD0041F856 /* SceneDelegate.swift in Sources */,
+				254AC9AF28C1865E000160C5 /* GCDViewController.swift in Sources */,
 				254DA61928BD94F60041F856 /* LottoAPIManager.swift in Sources */,
 				254AC9AB28C05AFB000160C5 /* LottoViewController.swift in Sources */,
 				2587BD3A28C048D100D96A65 /* LoginViewController.swift in Sources */,

@@ -35,7 +35,7 @@ class LottoViewController: UIViewController {
         bindData()
         
     }
-    
+    // viewModel을 view와 묶어주는 작업! view -> vm아 나 너를 구독하고 있을게!
     func bindData(){
         
         viewModel.number1.bind { value in

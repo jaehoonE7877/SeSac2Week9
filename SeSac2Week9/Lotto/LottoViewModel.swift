@@ -16,7 +16,7 @@ class LottoViewModel{
     var number5 = Observable(5)
     var number6 = Observable(6)
     var number7 = Observable(7)
-    var lottoMoney = Observable("날짜")
+    var lottoMoney = Observable("당첨 금액")
 
     
     func format(for number: Int) -> String {
